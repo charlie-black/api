@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Spinach",
+      "code": "SPIN100",
+      "price": "20"
+     
+    },
+      {
+      "id": 1,
+      "name": "Managu",
+      "code": "MANA100",
+      "price": "20"
+     
+    },
+      {
+      "id": 2,
+      "name": "Kales",
+      "code": "KALE100",
+      "price": "20"
+     
+    },
+    {
+      "id":3,
+      "name": "Cabbage",
+      "code": "CABB100",
+      "price": "30"
+    
+    }
+    
+    
+    ]
+    
+}
